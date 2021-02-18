@@ -36,7 +36,6 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/hashicorp/hcl"
 	"github.com/magiconair/properties"
 	"github.com/mitchellh/mapstructure"
 	"github.com/pelletier/go-toml"
